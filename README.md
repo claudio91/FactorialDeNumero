@@ -1,0 +1,2 @@
+# FactorialDeNumero
+Ejercicio D (FUNCIONES)
